@@ -1,0 +1,7 @@
+{
+  "name": "Remix:JHVoice AI Companion",
+  "description": "A romantic and sweet voice-activated AI companion powered by Gemini Live API, featuring a floating animated bubble and 24/7 readiness.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
